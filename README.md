@@ -44,7 +44,4 @@ Backend em C++ para sistema de pedidos e entregas, com login de cliente e entreg
 
 ---
 
-## Contato
-
-LinkedIn: seu-link-aqui
-Email: seu-email-aqui
+Email: bielbrown2001@hotmail.com
