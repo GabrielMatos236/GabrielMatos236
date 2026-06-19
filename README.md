@@ -1,6 +1,6 @@
 # Gabriel Matos
 
-Estudante de Ciência da Computação (FAPA/UniRitter) | Python & Pandas | React | Vue.js | C++
+Estudante de Ciência da Computação (FAPA/UniRitter) | Python | React | Vue.js | C++
 
 Desenvolvedor focado em soluções práticas — da automação de processos no setor de faturamento hospitalar a aplicações web completas, do front ao back.
 
